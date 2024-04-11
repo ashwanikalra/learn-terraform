@@ -1,1 +1,1 @@
-Terraform exercises.
+Terraform exercises.terr
